@@ -1,4 +1,4 @@
 def call(){
   echo "good bye"
-  echo "pipeline scm configuration"
+  echo "pipeline scm "
 }
